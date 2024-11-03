@@ -1,0 +1,13 @@
+table{max-width:720px;margin:0px;margin:0 auto;padding:0px;}
+h1 {text-align: center;}
+td {text-align: center;}
+div{max-width:720px;margin:0px;padding:0px;margin:0 auto;}
+.pagebar{margin:0 auto;text-align:center;}
+.pagebar2{margin:0 auto;text-align:center;background-color:yellow;}
+.pagebar a{margin-right:10px;font-size:20px;}
+.pagebar2 a{margin-right:10px;font-size:16px;}
+.left li{float:left;list-style:none;margin-right:10px;}
+ul{margin-left:0px;padding-left:0px;}
+.on{color:red;}
+.content{background-color:Azure;font-size:17px;min-height:500px;padding:2px;}
+html,body{padding:0px;}
